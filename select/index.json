@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Eternal",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-01-06T15:09:52.424235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Absolute In Doubt (feat. Wicca Phase Springs Eternal)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/01_Absolute_In_Doubt_(feat._Wicca_Phase_Springs_Eternal)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Avoid (feat. Wicca Phase Springs Eternal & Døves)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/02_Avoid_(feat._Wicca_Phase_Springs_Eternal_&_Døves)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Alley (feat. Alice Glass & Wicca Phase Springs Eternal)",
+      "artist": "Lil Zubin",
+      "has_synced": false,
+      "path": "select/03_Dark_Alley_(feat._Alice_Glass_&_Wicca_Phase_Springs_Eternal)_Lil_Zubin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eternal Living",
+      "artist": "Lil Poppa feat. Polo G",
+      "has_synced": true,
+      "path": "select/04_Eternal_Living_Lil_Poppa_feat._Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eternal Living (feat. Polo G)",
+      "artist": "Lil Poppa",
+      "has_synced": true,
+      "path": "select/05_Eternal_Living_(feat._Polo_G)_Lil_Poppa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Open Thunder Eternal Slumber",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/06_Open_Thunder_Eternal_Slumber_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sly - Eternal Feedback Dub",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/07_Sly_-_Eternal_Feedback_Dub_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sly (Eternal Feedback Dub)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/08_Sly_(Eternal_Feedback_Dub)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Home on Time (feat. Wicca Phase Springs Eternal)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": false,
+      "path": "select/09_Home_on_Time_(feat._Wicca_Phase_Springs_Eternal)_Nedarb_Nagrom.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doom Crossing: Eternal Horizons (feat. Natalia Natchan)",
+      "artist": "The Chalkeaters feat. Natalia Natchan",
+      "has_synced": true,
+      "path": "select/10_Doom_Crossing__Eternal_Horizons_(feat._Natalia_Natchan)_The_Chalkeaters_feat._Natalia_Natchan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eternal",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/11_Eternal_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eternal Glory",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/12_Eternal_Glory_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eternal Idol",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/13_Eternal_Idol_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eternal Snow",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/14_Eternal_Snow_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "God's Country (feat. Wicca Phase Springs Eternal)",
+      "artist": "Ethel Cain feat. Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/15_God's_Country_(feat._Wicca_Phase_Springs_Eternal)_Ethel_Cain_feat._Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eternal",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Eternal_LGYankees.txt"
+    }
+  ]
+}
